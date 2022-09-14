@@ -5,6 +5,7 @@
  * The pipeline helps you to deliver software changes quickly and in a reliable manner.
  * A suitable Jenkins instance is required to run the pipeline.
  * More information on getting started with Continuous Delivery can be found here: https://sap.github.io/jenkins-library/
+ * this is fun check GIT now
  */
 
 @Library('piper-lib-os') _
